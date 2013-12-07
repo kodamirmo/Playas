@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tourist Guide</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_playas">Playas </string>
+    <string name="menu_restaurantes">Restaurantes</string>
+    <string name="menu_hoteles">Hoteles</string>
+    <string name="menu_vida_nocturna">Vida_nocturna</string>
+    <string name="menu_tours">Tours</string>
+    <string name="menu_zona">Zona</string>
+    <string name="nombre_tipo_playa1">Privada</string>
+    <string name="nombre_tipo_playa2">Publica</string>
+    <string name="nombre_tipo_playa3">Nudista</string>
+    <string name="nombre_tipo_hotel1">Cinco_Estrellas</string>
+    <string name="nombre_tipo_hotel2">Cuatro_Estrellas</string>
+    <string name="nombre_tipo_hotel3">Tres_Estrellas</string>
+    <string name="nombre_tipo_hotel4">Dos_Estrellas</string>
+    <string name="Tipo_Tours1">Excursion </string>
+    <string name="Tipo_Tours2">Independiente </string>
+    <string name="Tipo_Tours3">Aventura </string>
+    <string name="Tipo_Tours4">Arqueologico </string>
+    <string name="zona1">Cancún </string>
+    <string name="zona2">Chetumal </string>
+    <string name="zona3">Chinchenitza </string>
+    <string name="zona4">Cozumel </string>
+    <string name="zona5">Holbox </string>
+    <string name="zona6">Islas_mujeres </string>
+    <string name="zona7">Merida </string>
+    <string name="zona8">Playa_del_carmen </string>
+    <string name="zona9">Rivera_maya </string>
+    <string name="zona10">Yucatan </string>
+    <string name="title_activity_lista_playas">ListaPlayas</string>
+    <string name="title_activity_lista_restaurantes">ListaRestaurantes</string>
+    <string name="title_activity_lista_hoteles">ListaHoteles</string>
+    <string name="title_activity_lista_vida_nocturna">ListaVidaNocturna</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_lista_tours">ListaTours</string>
+    <string name="title_activity_playa_detalle">PlayaDetalle</string>
+    <string name="title_activity_map_screen">MapScreen</string>
+    <string name="title_activity_detalle_restaurant">DetalleRestaurant</string>
+    <string name="title_activity_detalle_playa">DetallePlaya</string>
+    <string name="title_activity_detalle_tour">DetalleTour</string>
+    <string name="title_activity_detalle_hotel">DetalleHotel</string>
+    <string name="title_activity_detail_vida_nocturna">DetailVidaNocturna</string>
+
+</resources>

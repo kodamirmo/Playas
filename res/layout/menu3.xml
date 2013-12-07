@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageViewCoverZona"
+        android:layout_width="wrap_content"
+        android:layout_height="136dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/banner_playas2" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+            
+            <Button
+        android:id="@+id/btnCancun"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Cancún" />
+
+    <Button
+        android:id="@+id/btnChetumal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Chetumal" />
+
+    <Button
+        android:id="@+id/btnChicheniza"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Chichenitza" />
+    
+    <Button
+        android:id="@+id/btnCozumel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Cozumel" />
+
+    <Button
+        android:id="@+id/btnHolbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Holbox" />
+
+    <Button
+        android:id="@+id/btnIslasMujeres"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Islas Mujeres" />
+
+    <Button
+        android:id="@+id/btnMerida"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Merida" />
+
+    <Button
+        android:id="@+id/btnPlayadelCarmen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Playa del Carmen" />
+
+    <Button
+        android:id="@+id/btnRiveraMaya"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Rivera Maya" />
+    
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

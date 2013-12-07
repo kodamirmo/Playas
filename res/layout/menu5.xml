@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000" >
+    
+   
+   <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="136dp"
+        android:src="@drawable/banner_restaurantes2" />
+   
+      <Button
+          android:id="@+id/btnComidaMexicana"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="10dp"
+          android:text="Mexicana" />
+
+      <Button
+          android:id="@+id/btnComidaJaponesa"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="10dp"
+          android:text="Japonesa" />
+      
+      <Button
+          android:id="@+id/btnComidaCarnesyCortes"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="10dp"
+          android:text="Carnes y Cortes" />
+      
+      <Button
+          android:id="@+id/btnComidaItaliana"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="10dp"
+          android:text="Italiana" />
+      
+       <Button
+          android:id="@+id/btnComidaCarnesyLangostas"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="10dp"
+          android:text="Carnes y Langostas" />
+       
+        <Button
+          android:id="@+id/btnComidaInternacional"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="10dp"
+          android:text="Internacional" />
+      
+      
+      
+</LinearLayout>

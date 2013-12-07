@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     android:background="#000000"
+    
+     >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="135dp"
+        android:src="@drawable/banner_playas" 
+        />
+
+    <Gallery
+        android:id="@+id/gallery1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:id="@+id/btnPlayas"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:text="Playas"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:id="@+id/btnZona"
+        android:layout_width="match_parent"
+        android:layout_height="69dp"
+        android:text="Zona" 
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/btnTipo"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:text="Tipo"
+        android:layout_marginTop="20dp" />
+
+</LinearLayout> 

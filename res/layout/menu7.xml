@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="136dp"
+        android:src="@drawable/banner_hoteles2" />
+
+    <Button
+        android:id="@+id/btnTipoEstrellas5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="cinco Estrellas" />
+
+    <Button
+        android:id="@+id/btnTipoEstrellas4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="cuatro Estrellas" />
+
+    <Button
+        android:id="@+id/btnTipoEstrellas3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Tres Estrellas" />
+
+    <Button
+        android:id="@+id/btnTipoEstrellas2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Dos Estrellas" />
+
+</LinearLayout>
